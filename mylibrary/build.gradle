@@ -9,9 +9,9 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.ziwenL'
+                groupId = 'com.github.ziwenL'
                 artifactId = 'testLibrary'
-                version = '2.0.3'
+                version = '1.0.0'
             }
         }
     }
