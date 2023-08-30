@@ -12,4 +12,8 @@ class LibraryClass {
     fun test() {
         Log.e("TAG", "")
     }
+
+    fun testA() {
+        Log.e("TAG", "")
+    }
 }
